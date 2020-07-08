@@ -1,0 +1,13 @@
+#  This is the configuration file for NoExplode plugin.
+#  please note that the regions must be typed out
+#  in the exact same format as there two shown.
+#  - <world_name>,x1,y1,z1,x2,y2,z2
+#  Note that you must not use tabs for indentations. Thank you.
+#  It does not necessarily need to be sorted, you can choose 
+#  any two blocks, the plugin will create the area on its own.
+#  
+#  command for reloading the plugin is /noereload
+#
+areas:
+ - world,0,0,0,10,10,10
+ - world_nether,100,70,100,120,80,120

@@ -1,0 +1,9 @@
+author: iQuerz
+version: 1.0
+api-version: 1.15
+main: iQuerz.noexplode.main.NoExplode
+name: NoExplode
+commands:
+   noereload:
+      description: Reload config.
+      usage: /noereload
