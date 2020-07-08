@@ -1,2 +1,2 @@
 # NoExplode
- First commit
+ A Spigot based Minecraft plugin, made to disable entity explosions in listed areas. Configurable.
